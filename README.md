@@ -1,3 +1,3 @@
 # conflict
 
-Some text is here.
+ASome text is here.
